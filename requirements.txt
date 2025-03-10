@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langgraph
+langchain-community
+zhipuai
+vllm
+faiss-cpu
+elasticsearch
+arxiv
+numpy
+pandas
+pypdf
+python-dotenv
+tqdm
